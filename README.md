@@ -1,7 +1,4 @@
 # Spring Boot Recipe Application
 
-[![CircleCI](https://circleci.com/gh/springframeworkguru/spring5-recipe-app.svg?style=svg)](https://circleci.com/gh/springframeworkguru/spring5-recipe-app)
+[![CircleCI](https://app.circleci.com/pipelines/github/shwesinhtay111/Section-18Using-MySQL-with-Spring-Boot-Test.svg?style=svg)](https://app.circleci.com/pipelines/github/shwesinhtay111/Section-18Using-MySQL-with-Spring-Boot-Test)
 
-This repository is for an example application built in my Spring Framework 5 - Beginner to Guru
-
-You can learn about my Spring Framework 5 Online course [here.](http://courses.springframework.guru/p/spring-framework-5-begginer-to-guru/?product_id=363173)
